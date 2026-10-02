@@ -1,0 +1,14 @@
+# CodeAlpha Artificial Intelligence Internship - Task 3
+# AI Music Generation Project Dependencies
+
+# Deep Learning Framework
+tensorflow>=2.15.0
+
+# Scientific and Numerical Computing
+numpy>=1.24.0
+
+# Musical Instrument Digital Interface (MIDI) & Musicology Processing
+music21>=9.0.0
+
+# Web Application User Interface
+streamlit>=1.30.0
